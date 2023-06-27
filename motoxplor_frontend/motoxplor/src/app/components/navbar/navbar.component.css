@@ -1,0 +1,95 @@
+.user-profile-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 65px;
+    position: absolute;
+  }
+  .user-profile-frame1 {
+    top: 0px;
+    left: 186px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+  }
+  .user-profile-frame {
+    top: 0px;
+    left: 0px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+  }
+  .user-profile-motoxplorlogo2 {
+    top: 2.142857074737549px;
+    left: 0px;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+  }
+  .user-profile-motoxplorlogo1 {
+    top: 0px;
+    left: 27.85714340209961px;
+    width: 135px;
+    height: 30px;
+    position: absolute;
+  }
+  .user-profile-ellipse2 {
+    top: 16px;
+    left: 1359px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+  }
+  .user-profile-presentation1 {
+    width: 16px;
+    height: 16px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .user-profile-text002 {
+    left: 80px;
+    color: rgba(11, 1, 1, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Manrope;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .user-profile-text {
+    color: rgba(11, 1, 1, 1);
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Manrope;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .user-profile-group1 {
+    top: 23px;
+    left: 559px;
+    width: 322px;
+    height: 18px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .user-profile-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 65px;
+    position: absolute;
+  }
